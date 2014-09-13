@@ -1,0 +1,22 @@
+TQ Web Programming Framework
+=============================
+
+Thank you for choosing TQFramework - a high-performance component-based PHP framework.
+
+
+CÀI ĐẶT
+------------
+
+Copy thư mục mẫu Template
+Sửa lại đường dẫn include dirname(__FILE__).DS.'..'.DS.'..'.DS.'tqframework'.DS.'TQBase.php'; đến thư mục TQBase
+Sửa private/config/main.php
+
+WHAT's NEXT
+-----------
+
+Xem trên web site của TQFramework
+
+
+
+The TQFramework Developer Team
+http://tqframework.i-designer.net

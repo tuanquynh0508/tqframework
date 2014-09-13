@@ -1,0 +1,32 @@
+Upgrading Instructions for TQFramework v1.0
+================================================
+
+- Base
+		- Autoload, Multi Auto Load
+		- Router
+		- Share Config
+	- Controller
+		- Before Request
+		- After Request
+		- Init
+	- View
+	- Partial
+	- Widget
+	- Request
+		- Get
+		- Post
+		- Session
+		- Cookie	
+	- Database
+		- queryAll
+		- queryRow
+		- queryCount
+		- queryScalar
+		- querySQL
+		- executeSQL
+		- Transaction
+	- Model
+	- Exception
+	- Message i18n
+	- Form
+	- Validate
